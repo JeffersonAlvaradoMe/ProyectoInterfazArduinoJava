@@ -5,12 +5,14 @@
  */
 package proyectointerfazarduinojava;
 
+import com.panamahitek.PanamaHitek_Arduino;
+
 /**
  *
  * @author jefferson.alvarado
  */
 public class ProyectoInterfazArduinoJava {
-
+    PanamaHitek_Arduino ino= new PanamaHitek_Arduino();
     /**
      * @param args the command line arguments
      */
